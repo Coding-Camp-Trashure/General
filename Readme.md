@@ -3,7 +3,7 @@
 ---
 
 ## 📱 Aplikasi Website Prediksi Jenis Sampah 
-Trashure adalah aplikasi web prediksi jenis sampah berbasis Machine Learning Image Classification yang mengklasifikasikan gambar menjadi empat kelas utama: Sampah botol Plastik, sampah botol Kaca, sampah botol kaleng, dan sampah lainnya. Aplikasi ini bertujuan untuk membantu pengguna memilah sampah secara otomatis melalui unggahan gambar, sehingga proses daur ulang menjadi lebih mudah dan efisien. Trashure juga menghadirkan sistem reward simulatif berupa poin digital yang diberikan apabila gambar sampah diklasifikasikan sebagai salah satu dari tiga kategori utama (plastik, kaca, atau kaleng). Reward ini dirancang untuk meningkatkan kesadaran masyarakat dalam memilah sampah sejak awal dan mendorong partisipasi aktif dalam pengelolaan lingkungan berkelanjutan.
+Trashure menyediakan aplikasi web prediksi jenis sampah berbasis Machine Learning Image Classification yang mengklasifikasikan gambar menjadi empat kelas utama: Sampah botol Plastik, sampah botol Kaca, sampah botol kaleng, dan sampah lainnya. Aplikasi ini bertujuan untuk membantu pengguna memilah sampah secara otomatis melalui unggahan gambar, sehingga proses daur ulang menjadi lebih mudah dan efisien. Trashure juga menghadirkan sistem reward simulatif berupa poin digital yang diberikan apabila gambar sampah diklasifikasikan sebagai salah satu dari tiga kategori utama (plastik, kaca, atau kaleng). Reward ini dirancang untuk meningkatkan kesadaran masyarakat dalam memilah sampah sejak awal dan mendorong partisipasi aktif dalam pengelolaan lingkungan berkelanjutan.
 
 ---
 
@@ -24,10 +24,9 @@ Letakan video simulas aplikasi webiste
 
 ## 🔍 Cara Menggunakan Aplikasi Website Trashure
 1. Akses link Website Trashure https://gilded-gumption-e5cbdf.netlify.app/
-2. Pilih fitur Camera dan klik "Uji Sekarang" untuk mengupload gambar sampah yang akan diprediksi berformat gambar (jpeg, jpg, png).
-3. Setelah gambar di upload klik "....".
-4. Setelah loading selesai maka web akan menampilkan hasil prediksi sampah, apakah termasuk kategori sampah botol plastik, sampah botol kaca, sampah botol kaleng, atau sampah lainnya
-5. Dibawah hasil prediksi gambar berisi informasi tentang ....
-6. Jika hasil prediksi berupa botol plastik, sampah botol kaca, atau sampah botol kaleng maka akan mendapatkan reward berupa uang digital
-
+2. Login dengan memasukkan emai dan password anda
+3. Pilih fitur Camera dan klik "Uji Sekarang" untuk memindai gambar sampah yang akan diprediksi.
+4. Setelah gambar tertampil di camera klik "....".
+5. Jika gambar yang di pindai termasuk dalam salah satu dari ketiga jenis sampah : sampah botol plastik, sampah botol kaca, atau sampah botol kaleng. Maka sistem atau website akan menampilkan hasil prediksi gambar berisi informasi tentang nama sampah dan reward saldo yang di dapatkan.
+   
 ---
