@@ -24,9 +24,9 @@ Letakan video simulas aplikasi webiste
 
 ## 🔍 Cara Menggunakan Aplikasi Website Trashure
 1. Akses link Website Trashure https://gilded-gumption-e5cbdf.netlify.app/
-2. Login dengan memasukkan emai dan password anda
+2. register dan Login dengan memasukkan emai dan password anda
 3. Pilih fitur Camera dan klik "Uji Sekarang" untuk memindai gambar sampah yang akan diprediksi.
-4. Setelah gambar tertampil di camera klik "....".
+4. Setelah gambar tertampil di camera klik "Scan Image".
 5. Jika gambar yang di pindai termasuk dalam salah satu dari ketiga jenis sampah : sampah botol plastik, sampah botol kaca, atau sampah botol kaleng. Maka sistem atau website akan menampilkan hasil prediksi gambar berisi informasi tentang nama sampah dan reward saldo yang di dapatkan.
    
 ---
