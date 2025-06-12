@@ -18,7 +18,7 @@ Trashure menyediakan aplikasi web prediksi jenis sampah berbasis Machine Learnin
 ---
 
 ## ☢️ Demo Aplikasi Website
-Letakan video simulas aplikasi webiste
+![Demo Trashure](Media/Trashure.mp4)
 
 ---
 
