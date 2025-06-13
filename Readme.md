@@ -25,7 +25,7 @@ Trashure menyediakan aplikasi web prediksi jenis sampah berbasis Machine Learnin
 ---
 
 ## 🔍 Cara Menggunakan Aplikasi Website Trashure
-1. Akses link Website Trashure https://gilded-gumption-e5cbdf.netlify.app/
+1. Akses link Website Trashure https://trashure.up.railway.app/
 2. register dan Login dengan memasukkan emai dan password anda
 3. Pilih fitur Camera dan klik "Uji Sekarang" untuk memindai gambar sampah yang akan diprediksi.
 4. Setelah gambar tertampil di camera klik "Scan Image".
